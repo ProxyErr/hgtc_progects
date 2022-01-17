@@ -1,5 +1,4 @@
 # hgtc_progects:
 
-This contains most of my projects from HGTC. 
-
-I have left out most of the basic stuff. 
+This is to showcase some of the projects that 
+were completed while going to school at HGTC. 
