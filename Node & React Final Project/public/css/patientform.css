@@ -1,0 +1,182 @@
+
+header#PatientHeader{
+
+    display:flex;  
+    width: 100%;
+    height: 255px;
+    padding-top: 10px; 
+    max-width: 1440px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto; 
+  
+}
+
+#PatientHeader > div{
+    display:flex;
+    width: 100%;
+    height: auto;
+    height: 200px;
+    padding-top: 10px;
+    flex-wrap: nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    max-width: 1440px;
+  }
+  #search-nav{
+    background-color: rgb(0, 86, 130);
+    height: 95px;
+    width: 100%;
+  }
+  #search-nav > img{
+    
+    height: 65px;
+    position: relative;
+    padding-left: auto;
+    padding-right: auto;
+
+ 
+  }
+
+  #contact-nav{
+    background-color: rgb(0, 86, 130);
+    height: 160px;
+    width: 100%;
+
+  }
+  #contact-nav > img{
+    top: 1px;
+    height: 160px;
+    padding-left: auto;
+    padding-right: auto;
+    position: relative;
+
+
+  }
+  #main-nav{
+    
+    background-color: rgb(0, 149, 202);
+    height: 65px;
+    width: 100%;
+    position: relative;
+    text-transform: uppercase !important;
+    display: flex;
+    flex-wrap: wrap;
+
+
+  }
+  #main-nav > nav{
+    background-color: rgb(0, 149, 202);
+    height: 65px;
+    width: 100%;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 10%;
+  }
+
+  #main-nav > nav > ul{
+    -webkit-box-orient: horizontal;  
+    list-style-type: none;
+    display: inline;
+    color: white;
+    display: flex;
+    
+
+  }
+
+  #main-nav > nav > ul > li{
+    position: relative;
+    display: inline;
+    flex-wrap: nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    display: block;
+    display: block;
+    padding: 0.8rem 1.25rem;
+  }
+
+
+  div > form > div {       
+    background: rgb(126, 128, 129);
+    width: 800px; 
+    padding: 10px 20px 20px 40px;
+    margin: 10px auto; 
+    color: white;
+  }
+  
+  div > form > div > h2{       
+  text-align: center;
+  }
+  
+  
+  
+  div > form > div > h5{
+    padding: 5px;
+    margin: 0px;
+  }
+  
+  #infoinput > div{ 
+      
+    float: center;
+    vertical-align: top;
+    padding-bottom: 0;
+    margin-bottom: 0; 
+    display: flex;
+    width: 177px;
+    -webkit-box-orient: horizontal;
+    list-style-type: none;
+    display: inline;
+    color: white;
+    display: flex;
+    
+
+  }
+
+  
+form > div > input{ 
+    background-color: rgb(0, 149, 202);
+    color: rgb(216, 245, 245);
+    border-radius: 2px;
+    float: none;
+    display: block;
+    font-size: 1.1em;
+    height: 40px;
+    width: 200px;
+    clear: left;
+    margin: 10px auto; 
+  }
+
+
+div > form > div > img{
+
+    height: 50px;
+    padding-top: 10px;
+    
+  } 
+
+
+#logoimg1{
+    height: 200px;
+    padding-bottom: 15px;
+    margin-left: 1%; 
+    width: 450px; 
+}
+#sloganimg{
+    height: 200px;
+    padding-top: 10px;
+    padding-right: 2%;
+    margin-left: auto; 
+    width: 400px; 
+}
+
+#required > div {
+    display: flex;
+    
+}
+

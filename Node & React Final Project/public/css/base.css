@@ -1,0 +1,97 @@
+body {
+  background: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 0;
+  
+}
+
+a {
+  background:rgb(0, 86, 130);
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 8px;
+  padding: 3px;
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+  margin: 0 0 15px;
+  padding: 0;
+}
+
+h1 {
+  border-bottom: 20px solid rgb(0, 86, 130);
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: 0 0 15px;
+  padding: 0;
+  color: rgb(126, 128, 129);
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+h5 {
+  display: flex;
+  width: 177px;
+}
+
+
+
+ul {
+  padding-left: px;
+}
+
+
+
+.donation {
+  border-bottom: 1px solid #ccc;
+}
+
+.visible {
+  display: inline;
+  margin-left: 10px;
+}
+
+.invisible {
+  display: none;
+}
+
+.anyValue {
+  margin-left: 5px;
+}
+
+div#Choices > input{
+  width: 300px;
+
+}
+
+
+
+
+
+
+
+
+
