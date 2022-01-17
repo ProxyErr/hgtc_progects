@@ -1,0 +1,199 @@
+@charset "utf-8";
+
+/*
+<!--
+    Final Project:
+    Author:Christopher Baker 
+    Date:   8/2/2021
+
+    Filename: sexTon_pricing.css
+   -->
+
+*/
+/* Body Styles */
+
+html {
+	background-color: rgb(69, 123, 157);
+}
+
+
+body {
+	background-color: rgb(241, 250, 238);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	max-width: 960px;
+	min-width: 640px;
+	width: 95%;
+	border-left: 5px solid rgb(51,51,51);
+	border-right: 5px solid rgb(51,51,51);
+	
+}
+
+
+body p{
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* Body Header Styles */
+body h1,h2{
+	color: rgb(29, 53, 87);
+	padding-top: 25px;
+	padding-bottom: 10px;
+	font-size: 2em;
+	text-align: center;
+}
+
+body > header {
+	background-color: rgb(168, 218, 220);
+	position: sticky;
+	top: 0;
+	
+}
+
+body > header > img { 
+	display: block;
+	text-align: center;
+	width: 95%;
+	height: 100%;
+	
+}
+
+body > header > nav.horizontalNavigation li {
+	background-color: rgb(29, 53, 87);	
+	display: block;
+	float: left;
+	text-align: center;
+	width: 25%;	
+	font-size: 1.5em
+}
+
+body > header > nav.horizontalNavigation ul {
+	color: white;	
+	display: block;
+	height: 2.5em;	
+	text-align: center;
+	line-height: 2.5em;	
+	padding-left: 0px;
+}
+
+/* Center Block sections styles */
+
+
+main#infographic div{
+	background:rgb(168, 218, 220);
+									 
+	border: 10px double rgb(29, 53, 87);
+	border-radius: 30px;
+	box-shadow: rgba(51, 91, 51, 0.4) 0px 0px 20px 10px;
+	float: top;
+	padding: 20px;
+	width: auto%;
+	font-size: 6;
+	font-weight: bold;
+	margin-bottom: 20px;
+
+}
+main#infographic p{
+	width: 100%;
+	font-size: 1.4em;
+	text-align: center;
+}
+
+
+/* Article  Styles */
+
+article#about_list img{
+	display: block;
+	margin-left: 45%;
+	margin-right: 25%;
+
+}
+
+
+/* Horizontal Navigation Styles */
+nav.horizontalNavigation li {
+	display: block;
+	float: left;
+}
+
+nav.horizontalNavigation a {
+	display: block;
+	text-align: center;
+}
+
+nav.horizontalNavigation > ul > li > a:link, nav > ul > li > a:visited {
+	color: rgb(241, 250, 238);
+	text-decoration: none;
+}
+
+nav.horizontalNavigation > ul > li > a:hover, nav > ul > li > a:active {
+	color: rgb(241, 250, 238);
+	text-decoration: underline;
+}
+
+
+/* Footer Styles */
+/* Footer Styles */
+
+
+footer {
+	color: rgb(241, 250, 238);
+	background-color: rgb(29, 53, 87);
+	clear: left;
+	
+	
+}
+footer h1 {
+	color: rgb(241, 250, 238);
+}
+footer h3 {
+	text-align: center;
+	font-size: 15;
+	width: 15;
+	
+}
+
+
+
+
+footer > section#contactInfo {
+	float: left;
+	width: 100%;
+	margin-left: 0%;
+}
+
+footer:after {
+   clear: both;	
+   content: "";
+   display: table;
+}
+
+footer a 
+{
+	color: rgb(241, 250, 238);
+	text-decoration: none;
+	
+}
+
+footer a:hover
+{
+	color: rgb(241, 250, 238);
+	text-decoration: underline;
+}
+
+/* ===============================
+   Mobile Styles: 0px to 520px 
+   ===============================
+*/
+@media only screen and (max-width: 520px) {
+
+
+/* =============================================
+   Tablet and Desktop Styles: greater than 520px
+   =============================================
+*/
+@media only screen and (min-width: 521px) {
+

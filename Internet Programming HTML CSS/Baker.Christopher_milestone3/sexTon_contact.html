@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+	Final Project:
+    Author:Christopher Baker 
+    Date:   8/2/2021
+
+    Filename: sexTon_contact.html
+   -->
+   <meta charset="utf-8" />
+   <title>Contact Us</title>
+   <link href="styles/sexTon_contact.css" rel="stylesheet" />
+   <script src="JS/JavaStyles.js" defer></script>
+   <script src="JS/java_form.js" defer></script>
+   
+</head>
+
+
+<!--
+//////////////////////////////////////////////////////////////
+		Main Body Area: Header Navigation Main Table Footer
+//////////////////////////////////////////////////////////////
+   -->
+<body>
+   <header>
+      <img src="images/sexton-logo.svg" alt="Sexton Dental Clinic" id="logoimg" />
+      <nav class="horizontalNavigation" id="topLinks">
+         <ul>
+            <li><a href="sexTon_home.html">Home</a></li>
+            <li><a href="sexTon_pricing.html">Pricing</a></li>
+            <li><a href="sexTon_facilities.html">Facilities</a></li>
+            <li><a href="SexTon_contact.html">Contact Us</a></li>
+         </ul>
+      </nav>
+   </header>
+   <main id="infographic">
+		<div>
+			<h1>Contact Sexton Dental</h1>
+				<h3>Fill out this form and our staff will be in touch as soon as possible during normal business hours.</h3>
+			<form method="get"
+				  onsubmit="return validateForm();">
+				First Name: <input type="text" name="fmail" id="fmail"><br><br>
+				Last Name: <input type="text" name="lmail" id="lmail"><br><br>
+				E-mail: <input type="text" name="email" id="email"><br><br>
+				Comments:<br>
+				<textarea name="comments" id="comments" rows="4" cols="40"></textarea><br><br>
+			<input type="submit" value="Contact"> <input type="reset">
+			</form>
+		</div>			
+	  <h1>Sexton Dental Contact Information:</h1>
+	  <div>
+		<table class="tg">
+			<h1>Sexton Dental Clinic, Inc.</h1>			
+			<thead>
+				 <th class="contact1">
+					800-827-1560 Toll Free<br>
+					843-662-2543 Phone<br>
+					843-656-0110 Fax<br>
+					<br>
+				</th>
+			</thead>
+			<tbody>
+				<td class="contact2">
+					Sedation:
+					843-656-1932 IV Sedation (Local)<br>
+					877-374-4257 IV Sedation (Toll Free)<br>
+					843-804-6717 IV Sedation Fax<br>
+					<br>
+				</td>
+				  <tr>
+					<td class="contact3" colspan="2">
+						Cosmetic and Restorative:<br>
+						843-656-1943 Cosmetic and Restorative (Local)<br>
+						866-634-3846 Cosmetic and Restorative (Toll Free)<br></td>
+					</tr>
+			</tbody>
+		</table>
+		</div>
+	</main>	
+    <footer>
+		<div id="dateNow">04/12/1986<br />12:00:00 p.m.</div>
+		<section>
+			 <h3>Location &amp; Hours</h3>
+			 <p>377 W. Palmetto St.,Florence SC 29501 <a href="tel:800-827-1560">Tel: 800-827-1560</a> Toll Free Mon - Fri: 6 a.m. - 5 p.m.</p>
+		</section> 			
+	</footer>
+</body>
+</html>
