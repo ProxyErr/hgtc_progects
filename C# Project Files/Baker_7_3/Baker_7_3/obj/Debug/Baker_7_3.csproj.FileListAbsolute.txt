@@ -1,0 +1,10 @@
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\bin\Debug\Baker_7_3.exe.config
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\bin\Debug\Baker_7_3.exe
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\bin\Debug\Baker_7_3.pdb
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\obj\Debug\Baker_7_3.csproj.AssemblyReference.cache
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\obj\Debug\Baker_7_3.Form1.resources
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\obj\Debug\Baker_7_3.Properties.Resources.resources
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\obj\Debug\Baker_7_3.csproj.GenerateResource.cache
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\obj\Debug\Baker_7_3.csproj.CoreCompileInputs.cache
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\obj\Debug\Baker_7_3.exe
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_7_3\Baker_7_3\obj\Debug\Baker_7_3.pdb

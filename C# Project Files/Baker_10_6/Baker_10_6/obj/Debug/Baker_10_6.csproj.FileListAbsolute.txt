@@ -1,0 +1,11 @@
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\obj\Debug\Baker_10_6.csproj.AssemblyReference.cache
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\obj\Debug\Baker_10_6.MainForm.resources
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\obj\Debug\Baker_10_6.Properties.Resources.resources
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\obj\Debug\Baker_10_6.TotalChargesForm.resources
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\obj\Debug\Baker_10_6.csproj.GenerateResource.cache
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\obj\Debug\Baker_10_6.csproj.CoreCompileInputs.cache
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\bin\Debug\Baker_10_6.exe.config
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\bin\Debug\Baker_10_6.exe
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\bin\Debug\Baker_10_6.pdb
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\obj\Debug\Baker_10_6.exe
+C:\Users\mrbak\Desktop\HGTC FALL 2021\IST 271 Y01-ObjectOrientedTechnologies\Program Challenges\Baker_10_6\Baker_10_6\obj\Debug\Baker_10_6.pdb
